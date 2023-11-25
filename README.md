@@ -1,6 +1,6 @@
 # Manageable
 
-Manageable is a Carrd style landing page for my Luxembourgish company Manageable. Its actually of fork of one of my previous projects : the page I made for the artist [dronefactory](https://www.instagram.com/dronefactoryart/). I used an existing Bootstrap-ready HTML theme that I heavily modified. This is a HTML/CSS project but some Javascript was involved.
+Manageable is a Carrd style landing page for my Luxembourgish company Manageable. Its actually a "fork" of one of my previous projects : the page I made for the artist [dronefactory](https://www.instagram.com/dronefactoryart/). I used an existing Bootstrap-ready HTML theme that I heavily modified. This is a HTML/CSS project but some Javascript was involved.
 
 ## Installation
 
