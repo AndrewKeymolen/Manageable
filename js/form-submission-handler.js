@@ -81,7 +81,7 @@
           var buttons = form.querySelectorAll("button");
           for (var i = 0; i < buttons.length; i++) {
             buttons[i].disabled = false;
-            buttons[i].style.backgroundColor  = "rgb(246, 163, 159)";
+            buttons[i].style.backgroundColor  = "rgb(255, 123, 71)";
           }
         }
     };

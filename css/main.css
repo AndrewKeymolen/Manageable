@@ -727,7 +727,8 @@ body.is-instant:after {
 }
 
 .sendbutton {
-background-color: rgba(227, 118, 79, 1);
+background-color: rgb(255, 123, 71)
+color: white;
 border: none;
 padding: 3px;
 text-align: center;
@@ -837,12 +838,12 @@ border-radius: 6px;
 }
 
 .buttons.style1 .button:hover {
-	color: #FF5C5C !important;
-	border-color: #FF5C5C !important;
+	color: #ff7e49 !important;
+	border-color: #ff7e49 !important;
 }
 
 .buttons.style1 .button:hover svg {
-	fill: #FF5C5C !important;
+	fill: #ff7e49 !important;
 }
 
 .image {
@@ -892,11 +893,11 @@ border-radius: 6px;
 }
 
 .filter-pink{
-    filter: invert(54%) sepia(41%) saturate(773%) hue-rotate(329deg) brightness(95%) contrast(87%);
+    filter: invert(56%) sepia(41%) saturate(773%) hue-rotate(329deg) brightness(100%) contrast(100%);
 }
 
 .filter-pink-inverted{
-    filter: invert(54%) sepia(41%) saturate(773%) hue-rotate(329deg) brightness(95%) contrast(87%);
+    filter: invert(45%) sepia(41%) saturate(773%) hue-rotate(329deg) brightness(100%) contrast(100%);
 }
 
 #image01:not(:first-child) {
