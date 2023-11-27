@@ -727,7 +727,7 @@ body.is-instant:after {
 }
 
 .sendbutton {
-background-color: rgb(255, 123, 71)
+background-color: rgb(255, 123, 71);
 color: white;
 border: none;
 padding: 3px;
